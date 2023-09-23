@@ -2,7 +2,7 @@
 #From tomcat:8-jre8 
 
 # Maintainer 
-#MAINTAINER "Isaac" 
+#MAINTAINER "RI" 
 #COPY webapp/target/devops.war /usr/local/tomcat/webapps
 #COPY ./webapp.war /usr/local/tomcat/webapps
 
